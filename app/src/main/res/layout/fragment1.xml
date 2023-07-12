@@ -6,16 +6,17 @@
     tools:context=".Fragment3">
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/aa"
+        android:layout_width="1288dp"
+        android:layout_height="761dp"
+        android:src="@drawable/ee"
         android:layout_gravity="center"
         android:alpha="0.5" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Bienvenido 200687"
+        android:fontFamily="@font/font"
+        android:text="En Saturno viven los hijos que nunca tuvimos"
         android:layout_gravity="center"
         android:textColor="#FFFFFF"
         android:textSize="40sp"

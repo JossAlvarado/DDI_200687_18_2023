@@ -7,16 +7,17 @@
     tools:context=".Fragment3">
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/aa"
+        android:layout_width="1288dp"
+        android:layout_height="761dp"
         android:layout_gravity="center"
-        android:alpha="0.5" />
+        android:alpha="0.5"
+        android:src="@drawable/kk" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="200687"
+        android:fontFamily="@font/font"
+        android:text="En la Luna gritan a solas tu voz y mi voz"
         android:layout_gravity="center"
         android:textColor="#ffffff"
         android:textSize="40sp"
